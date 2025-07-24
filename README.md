@@ -3,7 +3,7 @@
 This repository contains the reconstruction of RNA-seq bioinformatics analysis for:
 **"Adaptive laboratory evolution of native methanol assimilation in *Saccharomyces cerevisiae*"**
 
-📄 **[View the full analysis report](https://nikolaossamperis.github.io/group1_project7BBG1002/project7BBG1002.html)**
+📄 **[View the full analysis report](https://nikolaossamperis.github.io/Reconstruction-of-RNA-seq-analysis/project7BBG1002.html)**
 
 ## License 
 This project was created for educational purposes as part of coursework.
