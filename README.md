@@ -1,9 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 [![R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![RMarkdown](https://img.shields.io/badge/Notebook-RMarkdown-8c52fc?logo=rstudio)](https://rmarkdown.rstudio.com/)
-[![Reproducible Research](https://img.shields.io/badge/Reproducible-Yes-brightgreen)](#reproducibility--reflection)
 [![Reference Paper](https://img.shields.io/badge/Reference%20Paper-Nat.Comm.-blue)](https://doi.org/10.1038/s41467-020-19390-9)
-[![Last Commit](https://img.shields.io/github/last-commit/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis/commits/main)
 
 
 # RNA-Seq Analysis Replication
