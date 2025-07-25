@@ -1,6 +1,6 @@
 # RNA-Seq Analysis Replication
 
-This repository contains the **reconstruction and replication of the downstream RNA-seq bioinformatics analysis** for  
+This repository contains the **reconstruction of the downstream RNA-seq bioinformatics analysis** for  
 ["Adaptive laboratory evolution of native methanol assimilation in *Saccharomyces cerevisiae*"](https://www.nature.com/articles/s41467-020-14474-w) (Espinosa et al., 2020, Nature Communications).
 
 The project demonstrates the challenges and practices of computational reproducibility by closely following the methods described in the original study and reflecting on any obstacles or discrepancies encountered.
