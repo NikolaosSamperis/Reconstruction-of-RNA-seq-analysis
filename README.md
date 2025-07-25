@@ -19,22 +19,22 @@ The project demonstrates the challenges and practices of computational reproduci
 ```{bash}
 .
 ├── data/
-│ ├── Paper_results.csv # Results provided by the original study for comparison
-│ └── readCounts2.txt # Gene-level read counts after featureCounts
+│ ├── Paper_results.csv                      # Results provided by the original study for comparison
+│ └── readCounts2.txt                        # Gene-level read counts after featureCounts
 ├── outputs/
-│ ├── fastqc_output/ # Quality control HTML reports per sample (FastQC, MultiQC)
+│ ├── fastqc_output/                         # Quality control HTML reports per sample (FastQC, MultiQC)
 │ ├── output_plots/
-│ │ ├── heatmaps/ # Heatmap images for gene expression
-│ │ ├── volcano_plots/ # Volcano plot images
-│ │ ├── downregulated_path_enrichment/ # KEGG/GO plots for downregulated genes
-│ │ └── upregulated_path_enrichment/ # KEGG/GO plots for upregulated genes
-│ ├── Paper_results.csv # Comparison results vs. original paper
-│ └── readCounts2.txt # Redundant copy for outputs (legacy)
-├── Final_report.pdf # Full write-up including methods, results, and self-reflection
-├── LICENSE.txt # MIT License
-├── README.md # This file
-├── project7BBG1002.Rmd # RMarkdown for full pipeline and code
-├── project7BBG1002.html # Rendered HTML notebook/report
+│ │ ├── heatmaps/                            # Heatmap images for gene expression
+│ │ ├── volcano_plots/                       # Volcano plot images
+│ │ ├── downregulated_path_enrichment/       # KEGG/GO plots for downregulated genes
+│ │ └── upregulated_path_enrichment/         # KEGG/GO plots for upregulated genes
+│ ├── Paper_results.csv                      # Comparison results vs. original paper
+│ └── readCounts2.txt                        # Redundant copy for outputs (legacy)
+├── Final_report.pdf                         # Full write-up including methods, results, and self-reflection
+├── LICENSE.txt                              # MIT License
+├── README.md                                # This file
+├── project7BBG1002.Rmd                      # RMarkdown for full pipeline and code
+├── project7BBG1002.html                     # Rendered HTML notebook/report
 
 ```
 ---
