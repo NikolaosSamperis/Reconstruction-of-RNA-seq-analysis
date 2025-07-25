@@ -95,7 +95,7 @@ This project not only attempts to reproduce a published bioinformatics workflow,
 - Ambiguities in statistical thresholds (FDR, p-value, log2FC)
 - Technical challenges with data formats and ID mapping
 
-A detailed self-reflection and methodological discussion are included in `Final_report.pdf`.
+A detailed self-reflection and methodological discussion are included in `Final_report_with_reflection.pdf`.
 
 ---
 
