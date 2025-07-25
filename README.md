@@ -101,9 +101,11 @@ A detailed self-reflection and methodological discussion are included in `Final_
 
 ## 📜 License
 
-This project is released under the MIT License.  
-See [LICENSE.txt](./LICENSE.txt) for full terms.
+This project was created for educational purposes as part of coursework.
 
+Feel free to use, modify, and share the code **with proper attribution**. Please note that this project is provided **as-is**, without any warranty or guarantee of functionality.
+
+If you use this code, kindly credit the original author by linking back to this repository.
 ---
 
 ## 🙏 Attribution
