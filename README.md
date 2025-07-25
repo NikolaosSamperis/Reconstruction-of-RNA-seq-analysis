@@ -53,7 +53,7 @@ We focus on:
 ## 🔗 Reference Paper
 
 **Espinosa MI, Gonzalez-Garcia RA, Valgepea K, et al.**  
-[Adaptive laboratory evolution of native methanol assimilation in Saccharomyces cerevisiae. *Nature Communications*, 2020; 11(1):5564.](https://www.nature.com/articles/s41467-020-14474-w)
+[Adaptive laboratory evolution of native methanol assimilation in Saccharomyces cerevisiae. *Nature Communications*, 2020; 11(1):5564.](https://doi.org/10.1038/s41467-020-19390-9)
 
 ---
 
