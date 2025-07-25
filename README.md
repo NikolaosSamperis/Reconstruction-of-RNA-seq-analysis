@@ -30,7 +30,7 @@ The project demonstrates the challenges and practices of computational reproduci
 │ │ └── upregulated_path_enrichment/         # KEGG/GO plots for upregulated genes
 │ ├── Paper_results.csv                      # Comparison results vs. original paper
 │ └── readCounts2.txt                        # Redundant copy for outputs (legacy)
-├── Final_report.pdf                         # Full write-up including methods, results, and self-reflection
+├── Final_report_with_reflection.pdf         # Full write-up including methods, results, and self-reflection
 ├── LICENSE.txt                              # MIT License
 ├── README.md                                # This file
 ├── project7BBG1002.Rmd                      # RMarkdown for full pipeline and code
