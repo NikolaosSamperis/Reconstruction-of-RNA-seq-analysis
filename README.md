@@ -108,4 +108,7 @@ Feel free to use, modify, and share the code **with proper attribution**. Please
 If you use this code, kindly credit the original author by linking back to this repository.
 ---
 
-## 🙏 Attribution
+## 🙏 Collaborators & Contributions
+This project is developed as part of a group coursework for the *Applied Bioinformatics and Cloud Computing* module. Thanks to my group members for their help on this project.
+- Madiha Khan
+- Yixin Huang
