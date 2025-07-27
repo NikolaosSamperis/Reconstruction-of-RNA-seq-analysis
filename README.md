@@ -6,10 +6,28 @@
 
 # RNA-Seq Analysis Replication
 
-This repository contains the **reconstruction of the downstream RNA-seq bioinformatics analysis** for  
-["Adaptive laboratory evolution of native methanol assimilation in *Saccharomyces cerevisiae*"](https://doi.org/10.1038/s41467-020-19390-9) (Espinosa et al., 2020, Nature Communications).
+<br>
 
-The project demonstrates the challenges and practices of computational reproducibility by closely following the methods described in the original study and reflecting on any obstacles or discrepancies encountered.
+## 📝 Project Overview
+
+This repository contains the **reconstruction of the downstream RNA-seq bioinformatics analysis** for  
+["Adaptive laboratory evolution of native methanol assimilation in *Saccharomyces cerevisiae*"](https://doi.org/10.1038/s41467-020-19390-9) (Espinosa et al., 2020, *Nature Communications*).
+
+<br>
+
+This project attempts to **reproduce the main findings** of Espinosa et al. (2020), who explored genetic adaptations enabling native methanol assimilation in *S. cerevisiae*. We aim to demonstrate the challenges and practices of computational reproducibility by closely following the methods described in the original study and reflecting on any obstacles or discrepancies encountered.
+
+**Goals:**
+- Replicating the RNA-seq downstream analysis pipeline (QC, alignment, quantification, differential expression, enrichment analysis)
+- Comparing our results to the original study
+- Highlighting sources of discrepancy and reflecting on reproducibility challenges in computational biology
+
+---
+
+## 🔗 Reference Paper
+
+**Espinosa MI, Gonzalez-Garcia RA, Valgepea K, et al.**  
+[Adaptive laboratory evolution of native methanol assimilation in Saccharomyces cerevisiae. *Nature Communications*, 2020; 11(1):5564.](https://doi.org/10.1038/s41467-020-19390-9)
 
 ---
 
@@ -43,24 +61,6 @@ The project demonstrates the challenges and practices of computational reproduci
 ├── project7BBG1002.html                     # Rendered HTML notebook/report
 
 ```
----
-
-## 📝 Project Overview
-
-This analysis attempts to **reproduce the main findings** of Espinosa et al. (2020), who explored genetic adaptations enabling native methanol assimilation in *S. cerevisiae*.  
-We focus on:
-
-- **Replicating the RNA-seq downstream analysis pipeline** (QC, alignment, quantification, differential expression, enrichment analysis)
-- Comparing our results to the original study
-- Highlighting sources of discrepancy and reflecting on reproducibility challenges in computational biology
-
----
-
-## 🔗 Reference Paper
-
-**Espinosa MI, Gonzalez-Garcia RA, Valgepea K, et al.**  
-[Adaptive laboratory evolution of native methanol assimilation in Saccharomyces cerevisiae. *Nature Communications*, 2020; 11(1):5564.](https://doi.org/10.1038/s41467-020-19390-9)
-
 ---
 
 ## 🚀 How to Use This Repository
