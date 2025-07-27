@@ -15,12 +15,7 @@ This repository contains the **reconstruction of the downstream RNA-seq bioinfor
 
 <br>
 
-This project attempts to **reproduce the main findings** of Espinosa et al. (2020), who explored genetic adaptations enabling native methanol assimilation in *S. cerevisiae*. We aim to demonstrate the challenges and practices of computational reproducibility by closely following the methods described in the original study and reflecting on any obstacles or discrepancies encountered.
-
-**Goals:**
-- Replicating the RNA-seq downstream analysis pipeline (QC, alignment, quantification, differential expression, enrichment analysis)
-- Comparing our results to the original study
-- Highlighting sources of discrepancy and reflecting on reproducibility challenges in computational biology
+The main aim of this project is to **replicate the RNA-seq analysis pipeline** described in the original study as closely as possible and to **compare the results to those published**. Throughout, we document and reflect on challenges in computational reproducibility, highlight discrepancies, and discuss methodological obstacles encountered.
 
 ---
 
